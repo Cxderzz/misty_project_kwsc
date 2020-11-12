@@ -1,0 +1,19 @@
+{
+  "Name": "misty_face_rec_1_1",
+  "UniqueId": "e9ef7fbd-747d-4c6a-8697-012c8e6bc3e9",
+  "Description": "My skill is amazing!",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 36000,
+  "CleanupOnCancel": true,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "face_rec_soren_1.0",
+  "UniqueId": "155e1859-609c-401a-9bad-ea16deb06e29",
+  "Description": "Face Recognition 1.0, no display apart from in console. Written by Soren Kelly",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 36000,
+  "CleanupOnCancel": true,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}

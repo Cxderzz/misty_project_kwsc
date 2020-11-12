@@ -1,0 +1,19 @@
+{
+  "Name": "misty_face_rec_1_6",
+  "UniqueId": "80261752-6e8d-4942-a85b-c3e07bf503e4",
+  "Description": "MISTY_FACE_REC_1_6 KIL LME CODE WRITEEN BY SOREN KELLY 3 NOVE 2020",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 36000,
+  "CleanupOnCancel": true,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}

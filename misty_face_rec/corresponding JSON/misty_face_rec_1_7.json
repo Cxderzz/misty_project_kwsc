@@ -1,0 +1,19 @@
+{
+  "Name": "misty_face_rec_1_7",
+  "UniqueId": "83dd00ee-46d0-423c-89b6-6825f8a1ba80",
+  "Description": "misty face rec 1.7, you know the deal. Written on 12 NOV 2020 by SOREN KELLY",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 36000,
+  "CleanupOnCancel": true,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}
