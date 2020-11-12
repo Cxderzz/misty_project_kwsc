@@ -9,6 +9,7 @@ Rest API Reference: https://docs.mistyrobotics.com/misty-ii/rest-api/api-referen
 ** This code is not certainly going to run correctly, we are not responsible for any damages caused when running this code **
 
 Note: If using any of the skills here, please generate a JSON file to go with your code.
+
 Note: Any JSON Files inclusive in this repository are to be used with caution. It is best to generate new ones. 
 
 TO GENERATE CORRESPONDING JSON FILES :  
