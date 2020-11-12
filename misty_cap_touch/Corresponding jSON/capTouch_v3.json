@@ -1,0 +1,19 @@
+{
+  "Name": "capTouch_v3",
+  "UniqueId": "ee51a861-e99c-4802-bd4d-6a40faef6cf9",
+  "Description": "CapTouch!",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 36000,
+  "CleanupOnCancel": true,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}
