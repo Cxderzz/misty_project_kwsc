@@ -1,0 +1,19 @@
+{
+  "Name": "KeyPhraseTrigger",
+  "UniqueId": "1f23c68f-3015-46cc-bec0-204956484e7c",
+  "Description": "MISTY Key Phrase JSON",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 30000,
+  "CleanupOnCancel": true,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}
